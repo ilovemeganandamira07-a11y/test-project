@@ -1,0 +1,1 @@
+const sample  = "This is the sample file"
